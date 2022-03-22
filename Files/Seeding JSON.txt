@@ -1,0 +1,49 @@
+{
+"stocks": [
+{
+    "productName": "stock1",
+    "productInstock": false,
+    "product_grade": "Good",
+    "note": "NOTHING",
+},
+{
+    "productName": "stock2",
+    "productInstock": false,
+    "product_grade": "Good",
+    "note": "NOTHING",
+},{
+    "productName": "stock3",
+    "productInstock": false,
+    "product_grade": "Good",
+    "note": "NOTHING",
+},{
+    "productName": "stock4",
+    "productInstock": false,
+    "product_grade": "Good",
+    "note": "NOTHING",
+}
+]
+}
+
+
+
+
+{
+    "customers": [
+        {
+            "customerName": "customer1",
+            "phoneNumber": 9884539291,
+            "address": ""
+        },
+        {
+            "customerName": "customer2",
+            "phoneNumber": 7904755354,
+            "address": ""
+        },
+        {
+            "customerName": "customer3",
+            "phoneNumber": 9087991886,
+            "address": ""
+        }
+    ]
+}
