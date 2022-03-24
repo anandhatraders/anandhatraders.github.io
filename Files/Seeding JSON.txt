@@ -1,30 +1,119 @@
 {
-"stocks": [
-{
-    "productName": "stock1",
-    "productInstock": false,
-    "product_grade": "Good",
-    "note": "NOTHING",
-},
-{
-    "productName": "stock2",
-    "productInstock": false,
-    "product_grade": "Good",
-    "note": "NOTHING",
-},{
-    "productName": "stock3",
-    "productInstock": false,
-    "product_grade": "Good",
-    "note": "NOTHING",
-},{
-    "productName": "stock4",
-    "productInstock": false,
-    "product_grade": "Good",
-    "note": "NOTHING",
+  "stocks": [
+    {
+      "productName": "S Turmeric Powder",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 201,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "S Chilli Powder",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 202,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "S Coriander Powder",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 203,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "S Chicken Masala",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 204,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "S Mutton Masala",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 205,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "S Garam Masala",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 206,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Turmeric Powder",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 221,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Chilli Powder",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 222,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Coriander Powder",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 223,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Chicken Masala",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 224,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Mutton Masala",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 225,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Garam Masala",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 226,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Pepper Powder",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 227,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Fish curry Masala",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 228,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Sambar Power",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 229,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Idly Chilly Powder",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 230,
+      "note": "NOTHING"
+    }
+  ]
 }
-]
-}
-
 
 
 
