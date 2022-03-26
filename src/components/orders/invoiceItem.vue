@@ -49,7 +49,7 @@
               class="form-control mb-3"
               v-model="items_data.quantity"
               step=".01"
-              min="0.25"
+              min="0.05"
               required
               :max="quantityLeft"
             />
@@ -76,15 +76,16 @@
               class="form-control mb-3"
               v-model="items_data.price"
               step=".01"
-              :min="sell_price[2]"
               required
             />
+            <!-- :min="sell_price[2]" -->
             <!-- :disabled="!buy_order && !is_owner" -->
             <strong>Total</strong>
             <input
               type="number"
               class="form-control mb-3"
               v-model="items_data.payable"
+              step=".01"
               required
             />
           </li>
@@ -208,10 +209,8 @@ export default {
   updated() {
     // this.updated_fields();
     this.items_data.item_number = this.item_number;
-    this.items_data.payable = Math.ceil(
-      parseInt(this.items_data.price) *
-        parseFloat(this.items_data.quantity).toFixed(2)
-    );
+    let payable = parseFloat(this.items_data.price) * parseFloat(this.items_data.quantity)
+    this.items_data.payable = payable.toFixed(2)
     this.$emit("invoice_item", this.items_data);
   },
 };

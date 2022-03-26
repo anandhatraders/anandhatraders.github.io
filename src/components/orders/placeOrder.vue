@@ -168,7 +168,7 @@ export default {
         this.total_amount_to_paid = 0;
         this.item.forEach((item) => {
           this.data_entry.push({ ...this.static_data, ...item });
-          this.total_amount_to_paid += parseInt(item.payable);
+          this.total_amount_to_paid += parseFloat(item.payable);
         });
         this.order_data["invoice_id"] = this.invoice_id;
         this.order_data["data_entry"] = this.data_entry;
