@@ -80,6 +80,9 @@
                         <tfoot>
                           <tr>
                             <th colspan="3" class="text-right">Grand Total</th>
+                            <!-- <th class="text-center">
+                              ₹&nbsp;{{ Math.ceil(totalAmount) }}
+                            </th> -->
                             <th class="text-center">
                               ₹&nbsp;{{ totalAmount }}
                             </th>
