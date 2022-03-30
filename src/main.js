@@ -2,6 +2,9 @@ import Vue from 'vue'
 import moment from 'moment'
 import VueResource from 'vue-resource'
 import VueSimpleAlert from 'vue-simple-alert'
+import device from "vue-device-detector"
+
+
 
 import App from '@/App'
 import router from '@/router/index.js'
@@ -14,6 +17,7 @@ Vue.config.productionTip = false
 
 Vue.use(VueResource)
 Vue.use(VueSimpleAlert)
+Vue.use(device)
 
 Vue.component('loading-screen', loadingScreen)
 Vue.component('app-navbar', navbar)
