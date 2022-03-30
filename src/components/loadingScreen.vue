@@ -1,5 +1,5 @@
 <template>
-  <div style="background-color: black; z-index: 1000; height: 100vh"></div>
+  <div style="background-color: black; height: 100vh" v-if="loading"></div>
 </template>
 
 <script>

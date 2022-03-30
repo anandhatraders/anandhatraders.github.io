@@ -1,0 +1,181 @@
+    {
+        "public_id": "c6bb1b38-7c57-45c4-bd76-9e67a77593a6",
+        "barCodeId": 221,
+        "productName": "A Turmeric Powder 30g",
+        "productInstock": true,
+        "quantitiesLeft": 0.0,
+        "product_grade": "Good",
+        "note": "NOTHING",
+        "profitPer_retail": 0,
+        "profitPer_wholeSale": 0,
+        "sellPrice": 0.0
+    },
+    {
+        "public_id": "b004dd20-8663-432e-88b0-69d040b3e0c0",
+        "barCodeId": 220,
+        "productName": "A Turmeric Powder 20g",
+        "productInstock": false,
+        "quantitiesLeft": 0.0,
+        "product_grade": "GOOD",
+        "note": "NOTHING",
+        "profitPer_retail": 0,
+        "profitPer_wholeSale": 0,
+        "sellPrice": 0.0
+    },
+    {
+        "public_id": "ed0c50ba-0e56-4b31-b16b-78f4697646b9",
+        "barCodeId": 228,
+        "productName": "A Fish curry 20g",
+        "productInstock": true,
+        "quantitiesLeft": 0.0,
+        "product_grade": "Good",
+        "note": "NOTHING",
+        "profitPer_retail": 0,
+        "profitPer_wholeSale": 0,
+        "sellPrice": 0.0
+    },
+    {
+        "public_id": "cb0d3922-02a1-49a3-a7cb-fccdc4cf0a29",
+        "barCodeId": 223,
+        "productName": "A Coriander Powder 25g",
+        "productInstock": true,
+        "quantitiesLeft": 0.0,
+        "product_grade": "Good",
+        "note": "NOTHING",
+        "profitPer_retail": 0,
+        "profitPer_wholeSale": 0,
+        "sellPrice": 0.0
+    },
+    {
+        "public_id": "a9cc8f3f-8692-49fd-b519-4e837a6a304c",
+        "barCodeId": 222,
+        "productName": "A Chilli Powder 20g",
+        "productInstock": true,
+        "quantitiesLeft": 0.0,
+        "product_grade": "Good",
+        "note": "NOTHING",
+        "profitPer_retail": 0,
+        "profitPer_wholeSale": 0,
+        "sellPrice": 0.0
+    },
+    {
+        "public_id": "7bfa51ac-30d3-474b-882d-215aff37368a",
+        "barCodeId": 230,
+        "productName": "A Idly Chilli Powder 30g",
+        "productInstock": true,
+        "quantitiesLeft": 0.0,
+        "product_grade": "Good",
+        "note": "NOTHING",
+        "profitPer_retail": 0,
+        "profitPer_wholeSale": 0,
+        "sellPrice": 0.0
+    },
+    {
+        "public_id": "6c5ca170-e421-4310-93a2-496e27e46340",
+        "barCodeId": 226,
+        "productName": "A Garam Masala 15g",
+        "productInstock": true,
+        "quantitiesLeft": 0.0,
+        "product_grade": "Good",
+        "note": "NOTHING",
+        "profitPer_retail": 0,
+        "profitPer_wholeSale": 0,
+        "sellPrice": 0.0
+    },
+    {
+        "public_id": "37dfee7e-2fae-4de3-af2c-f9cb6341c02c",
+        "barCodeId": 227,
+        "productName": "A Pepper Powder 8g",
+        "productInstock": true,
+        "quantitiesLeft": 0.0,
+        "product_grade": "Good",
+        "note": "NOTHING",
+        "profitPer_retail": 0,
+        "profitPer_wholeSale": 0,
+        "sellPrice": 0.0
+    },
+    {
+        "public_id": "32a35156-05cc-4296-956a-e730d4ee70c9",
+        "barCodeId": 224,
+        "productName": "A Chicken Masala 18g",
+        "productInstock": true,
+        "quantitiesLeft": 0.0,
+        "product_grade": "Good",
+        "note": "NOTHING",
+        "profitPer_retail": 0,
+        "profitPer_wholeSale": 0,
+        "sellPrice": 0.0
+    },
+    {
+        "public_id": "1c6cbf17-b220-4d6a-b39b-bfd52b8bf22e",
+        "barCodeId": 225,
+        "productName": "A Mutton Masala 18g",
+        "productInstock": true,
+        "quantitiesLeft": 0.0,
+        "product_grade": "Good",
+        "note": "NOTHING",
+        "profitPer_retail": 0,
+        "profitPer_wholeSale": 0,
+        "sellPrice": 0.0
+    },
+    {
+        "public_id": "2e560713-3109-4e40-b3e5-3e57e07561ed",
+        "barCodeId": 229,
+        "productName": "A Sambar Power 20g",
+        "productInstock": true,
+        "quantitiesLeft": 0.0,
+        "product_grade": "Good",
+        "note": "NOTHING",
+        "profitPer_retail": 0,
+        "profitPer_wholeSale": 0,
+        "sellPrice": 0.0
+    },
+
+
+
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+    {
+      "productName": "S Turmeric Powder",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 201,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "S Chilli Powder",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 202,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "S Coriander Powder",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 203,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "S Chicken Masala",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 204,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "S Mutton Masala",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 205,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "S Garam Masala",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 206,
+      "note": "NOTHING"
+    },

@@ -1,0 +1,9 @@
+API-PROD-LINK:			http://api-prod-at.herokuapp.com/
+API-DEV-LINK:			http://api-dev-at.herokuapp.com/
+
+VUE-PROD-LINK:			https://anandhatraders.github.io
+VUE-DEV-LINK:			https://dev-at.vercel.app
+https://anandhatraders.github.io/
+
+https://media1.thehungryjpeg.com/thumbs2/ori_3656345_ykrqulvid8kmquzhy86g3sjunvdqvsc4z8r7ppkk_monogram-at-logo-design.jpg
+https://www.bing.com/images/search?view=detailV2&ccid=YO3T4MIr&id=8D5FD7F3205CC518481EF5A9550BF7D85BF2CD2E&thid=OIP.YO3T4MIrl64ZNxr1mdIf4AHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f538616%2fscreenshots%2f6306695%2fat_logo.jpg&exph=600&expw=800&q=at+logo&simid=608016306753975724&FORM=IRPRST&ck=CDB9C1B7CF7A91B721057B13BF8F12DB&selectedIndex=13

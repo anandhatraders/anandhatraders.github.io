@@ -1,0 +1,179 @@
+{
+  "stocks": [
+    {
+      "productName": "A Turmeric Powder 20g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 221,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Turmeric Powder 30g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 222,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Chilli Powder 10g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 223,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Chilli Powder 20g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 224,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Coriander Powder 15g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 225,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Coriander Powder 25g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 226,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Chicken Masala 18g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 227,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Mutton Masala 18g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 228,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Pepper Powder 5g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 229,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Pepper Powder 8g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 230,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Sambar Powder 20g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 231,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Rasam Powder 18g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 232,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A kuzhambu Powder 30g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 233,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A kuzhambu Powder 50g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 234,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Garam Masala 8g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 235,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Garam Masala 15g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 236,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Biryani Masala 20g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 237,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Fish kuzhambu Masala 20g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 238,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Fish fry Masala 20g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 239,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Egg Masala 18g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 240,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A G&G paste 80g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 241,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A lemon Mix 20g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 242,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A turmeric rice mix 20g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 243,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Idly Chilly Powder 15g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 244,
+      "note": "NOTHING"
+    },
+    {
+      "productName": "A Idly Chilly Powder 30g",
+      "productInstock": true,
+      "product_grade": "Good",
+      "barCodeId": 245,
+      "note": "NOTHING"
+    }
+  ]
+}
